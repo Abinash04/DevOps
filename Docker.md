@@ -3,7 +3,7 @@
 # Container ecosystem layers
 <img width="900" alt="image" src="https://github.com/Abinash04/DevOps/assets/15240069/0795fcf6-3b12-4f72-a5d3-db5b37e9a1cd">
 
-```
+
 1. Create your first swarm
 
 ![image](https://github.com/Abinash04/DevOps/assets/15240069/f553f75e-a87b-48a7-8588-a7ead5507815)
@@ -21,4 +21,4 @@ You need to use this token to join the other nodes to the swarm.
 
 All docker service commands need to be executed on the manager node (Node1).
 
-```
+
